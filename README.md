@@ -1,5 +1,7 @@
 # 🧮 Calculadora em Notação Polonesa Reversa (RPN)
 
+`Aluno: Davi Nascimento de Jesus` 
+
 ## 📋 Descrição da Atividade
 
 &emsp;Este projeto consiste em uma calculadora em linguagem C que avalia expressões matemáticas escritas em **Notação Polonesa Reversa (RPN)**. A calculadora foi desenvolvida como parte de uma atividade de implementação do TAD Pilha. Essa foi a trilha escolhida, dentre as duas atividades propostas como opções das ponderadas
